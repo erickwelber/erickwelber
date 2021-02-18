@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/erickwelber/Repositorio/main/GitHub.png)
 
-Possui formação de ensino profissional em Administração de Banco de Dados (IFBA). Atualmente é Bacharelando em Sistemas de Informação (IFBA).
+### 🌎 Linguagens, padrões, comunicação e café
 
-#### 🌎 Linguagens, padrões e comunicação 
+- 📍 Feira de Santana - Bahia
+- 💻 Bacharelado em Sistemas de Informação

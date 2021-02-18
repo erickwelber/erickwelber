@@ -5,7 +5,11 @@
   <a href="mailto:erickwellber@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 
-### Linguagens, padrões, comunicação e café 🌎 <br/><br/>
+
+<h3 align="center">
+   Linguagens, padrões, comunicação e café 🌎 <br/><br/>
+</h3>
+
 
 #### 📚 Estudos acadêmicos e tecnologias associados em:
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

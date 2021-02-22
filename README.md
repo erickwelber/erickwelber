@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-   Linguagens, padrões, comunicação e café 🌎 <br/><br/>
+   Linguagens, padrões e comunicação 🌎 <br/><br/>
 </h3>
 
 

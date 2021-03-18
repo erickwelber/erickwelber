@@ -4,12 +4,6 @@
   <a href="mailto:20181bsifsa0017@ifba.edu.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 
-
-<h3 align="center">
-   Linguagens, padrões e comunicação 🌎 <br/><br/>
-</h3>
-
-
 #### 📚 Estudos acadêmicos e tecnologias associados em:
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

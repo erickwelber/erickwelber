@@ -6,7 +6,7 @@ Analista de Dados com foco em inteligência de negócio. Minha missão é transf
 - 🛠 **Stack Técnica:** Excel, SQL, Python, Power BI e Apache Hop.
 - 🎯 **Foco:** Governança de dados, transparência pública e análise preditiva na educação.
 
----
+#
 
 ### 🛠 Tecnologias e Ferramentas
 

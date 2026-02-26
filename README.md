@@ -1,4 +1,4 @@
-### 🐱‍👤 Analista de Business Intelligence
+### 🐱‍👤 **`Analista de Business Intelligence`**
 
 Analista de Dados com foco em inteligência de negócio. Minha missão é transformar dados educacionais e administrativos em insights estratégicos que apoiem a gestão pública e o sucesso acadêmico.
 
@@ -8,7 +8,7 @@ Analista de Dados com foco em inteligência de negócio. Minha missão é transf
 
 #
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 **`Tecnologias e Ferramentas`**
 
 <img 
     align="left" 

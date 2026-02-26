@@ -1,16 +1,52 @@
-## Hi there 👋
+### 🐱‍👤 Analista de Business Intelligence
 
-<!--
-**erickwelber/erickwelber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados com foco em inteligência de negócio. Minha missão é transformar dados educacionais e administrativos em insights estratégicos que apoiem a gestão pública e o sucesso acadêmico.
 
-Here are some ideas to get you started:
+- 📊 **Função:** Trabalho no desenvolvimento de dashboards e automação de relatórios para monitoramento de indicadores institucionais.
+- 🛠 **Stack Técnica:** Excel, SQL, Python, Power BI e Apache Hop.
+- 🎯 **Foco:** Governança de dados, transparência pública e análise preditiva na educação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"        
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="200px" 
+    style="padding-right: 10px;" 
+    src="https://www.python.org/static/img/python-logo.png" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://hop.apache.org/img/hop-logo.svg" 
+/>

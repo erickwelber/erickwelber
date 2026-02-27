@@ -1,6 +1,6 @@
 ### 🐱‍👤 **`Analista de Business Intelligence`**
 
-Analista de Dados com foco em inteligência de negócio. Visão voltada para a transformação de dados educacionais e administrativos para insights estratégicos que apoiem a gestão pública e o sucesso acadêmico.
+Analista de Dados com foco em inteligência de negócio. Minha missão é transformar dados educacionais e administrativos em insights estratégicos que apoiem a gestão pública e o sucesso acadêmico.
 
 - 📊 **Atividades:** Atuação no desenvolvimento de dashboards e automação de relatórios para monitoramento de indicadores institucionais.
 - 🛠 **Stack Técnica:** Excel, SQL, Python, Power BI e Apache Hop.

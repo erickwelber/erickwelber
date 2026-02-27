@@ -4,50 +4,13 @@ Analista de Dados com foco em inteligência de negócio. Minha missão é transf
 
 - 📊 **Atividades:** Atuação no desenvolvimento de dashboards e automação de relatórios para monitoramento de indicadores institucionais.
 - 🎯 **Foco:** Governança de dados, transparência pública e análise preditiva na educação.
-</ul>
-
-#
-
-### 🛠 **`Tecnologias e Ferramentas`**
 - 🛠 **Stack Técnica:** Excel, SQL, Python, Power BI e Apache Hop.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"        
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="200px" 
-    style="padding-right: 10px;" 
-    src="https://www.python.org/static/img/python-logo.png" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://hop.apache.org/img/hop-logo.svg" 
-/>
+#
+<p align="center">
+  <img alt="Excel" title="Excel" width="50px" src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" style="padding: 10px;" />
+  <img alt="Azure SQL" title="Azure SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding: 10px;" />
+  <img alt="Python" title="Python" width="200px" src="https://www.python.org/static/img/python-logo.png" style="padding: 10px;" />
+  <img alt="Power BI" title="Power BI" width="40px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" style="padding: 10px;" />
+  <img alt="Apache Hop" title="Apache Hop" width="50px" src="https://hop.apache.org/img/hop-logo.svg" style="padding: 10px;" />
+</p>
